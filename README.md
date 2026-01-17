@@ -1,21 +1,57 @@
-<h1>Hi, I'm Al-dren <br/> <a href="https://www.linkedin.com/in/daimonaldren/">Security+ Certified | Cyber Security Analyst </a> 
-<h2>🕵️‍♂️CyberSecurity Home Labs:</h2>
+# Hi, I'm Al-dren 👋  
 
-- <b>first labs (AlgoExpert)</b>
-  
+🔐 **Security+ Certified | SOC Analyst (Entry-Level)**  
+🎓 BS Computer Science Graduate  
+📍 Saudi Arabia  
 
+I am an aspiring **SOC Analyst** with hands-on experience in security fundamentals, log analysis, phishing investigation, and SIEM basics through labs and real-world technical roles. I am focused on building strong blue-team skills and transitioning into a Security Operations role.
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛡️ Cybersecurity Focus Areas
+- Phishing Email Analysis & Investigation  
+- Log Analysis (Windows Event Logs, basic Linux logs)  
+- SIEM Fundamentals (Splunk – basic searching & alert review)  
+- Incident Triage & Reporting  
+- Access Control & Authentication Concepts  
+- Security Monitoring & Alert Analysis  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧪 Hands-On Labs & Projects
+*(Actively building SOC portfolio projects)*
+
+- **Phishing Investigation Project**  
+  Simulated phishing incident analysis including indicator extraction, MITRE ATT&CK mapping, impact assessment, and response recommendations.
+
+- **Windows Log Analysis (Upcoming)**  
+  Analysis of failed and successful authentication events to identify brute-force and credential-based attacks.
+
+- **SIEM Basics with Splunk (Upcoming)**  
+  Ingesting logs and performing basic searches to detect suspicious activity.
+
+---
+
+## 📚 Learning & Certifications
+- CompTIA Security+ (SY0-701) – **Passed**
+- TryHackMe:
+  - Pre Security – Completed  
+  - Cyber Security 101 – Completed  
+  - SOC Level 1 – In Progress (46%)
+
+---
+
+## 🧠 Technical Background
+- Windows & Linux Fundamentals  
+- Networking Basics (TCP/IP, DNS, Ports)  
+- System Troubleshooting & Technical Support  
+- Documentation & Incident Reporting  
+
+---
+
+## 🤝 Connect With Me
+🔗 [LinkedIn](https://www.linkedin.com/in/daimonaldren)
+
+---
+
+📌 *This profile documents my cybersecurity learning journey and SOC-focused hands-on projects.*
